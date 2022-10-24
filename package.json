@@ -12,5 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/agatajack/prettier-xBudget.git"
   },
-  "homepage": "https://github.com/agatajack/prettier-xBudget"
+  "homepage": "https://github.com/agatajack/prettier-xBudget",
+  "publishConfig": {
+    "@agatajack:registry": "https://npm.pkg.github.com"
+  }
 }
