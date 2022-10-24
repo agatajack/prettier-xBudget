@@ -1,5 +1,5 @@
 {
-  "name": "@agatajack/prettier-xBudget",
+  "name": "agatajack/prettier-xBudget",
   "version": "1.0.1",
   "description": "Prettier Config",
   "main": "index.json",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/@agatajack/prettier-xBudget"
+    "url": "git+https://github.com/agatajack/prettier-xBudget.git"
   },
-  "homepage": "https://github.com/@agatajack/prettier-xBudget"
+  "homepage": "https://github.com/agatajack/prettier-xBudget"
 }
